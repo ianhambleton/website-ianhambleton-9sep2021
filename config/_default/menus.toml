@@ -4,29 +4,92 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Biosketch"
   url = "#about"
   weight = 10
+  identifier = "submenu_bio"
+
+# Sub-menu
+#       [[main]]
+#         name = "brief biosketch"
+#         url = "#about"
+#         weight = 11
+#         parent = "submenu_bio"
+# 
+#       [[main]]
+#         name = "education"
+#         url = "#about"
+#         weight = 12
+#         parent = "submenu_bio"
+# 
+#       [[main]]
+#         name = "appointments"
+#         url = "#experience"
+#         weight = 13
+#         parent = "submenu_bio"
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Experience"
+  url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Featured Articles"
+  url = "#featured"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "All Publications"
+  url = "#publications"
+  weight = 35
+  identifier = "submenu_pubs"
+
+# Sub-menu
+#       [[main]]
+#         name = "all publications"
+#         url = "#publications"
+#         weight = 32
+#         parent = "submenu_pubs"
+#       
+#       [[main]]
+#         name = "featured publications"
+#         url = "#featured"
+#         weight = 31
+#         parent = "submenu_pubs"
+
+# [[main]]
+#   name = "Data Blog"
+#   url = "#posts"
+#   weight = 40
+
+[[main]]
+  name = "Teaching / Presentations"
+  url = "#talks"
+  weight = 50
+  identifier = "submenu_training"
+
+# Sub-menu
+#       [[main]]
+#         name = "courses"
+#         url = "#talks"
+#         weight = 51
+#         parent = "submenu_training"
+#       
+#       [[main]]
+#         name = "presentations"
+#         url = "#talks"
+#         weight = 52
+#         parent = "submenu_training"
+      
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 90
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.

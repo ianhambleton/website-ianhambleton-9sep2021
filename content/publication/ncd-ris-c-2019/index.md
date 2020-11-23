@@ -35,7 +35,7 @@ tags:
 categories: []
 date: '2019-05-01'
 lastmod: 2020-11-22T22:06:35-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -43,7 +43,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'smart'
   preview_only: false
 
 # Projects (optional).

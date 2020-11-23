@@ -26,14 +26,14 @@ categories: []
 date: '2020-01-01'
 lastmod: 2020-11-22T22:06:30-04:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'smart'
   preview_only: false
 
 # Projects (optional).

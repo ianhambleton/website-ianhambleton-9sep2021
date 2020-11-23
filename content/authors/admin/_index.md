@@ -17,9 +17,13 @@ organizations:
 bio: PhD-level statistician / data scientist
 
 interests:
-- Data Analytics
-- Epidemiology
-- Stata
+    - data handling technologies 
+    - data curation and sharing
+    - systematic review methodology
+    - data visualization
+    - health inequalities
+    - health in small islands
+
 
 education:
   courses:
@@ -73,7 +77,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investogators
+- Principal Investigators
 - Researchers
 - Visitors
 ---
@@ -85,10 +89,10 @@ I have worked as a statistician for 25 years in Europe, Africa, and the Caribbea
 I am committed to open-access data, and am developing an infrastructure for collecting and sharing Caribbean research data. I am statistical editor for the Cystic Fibrosis and Genetic Disorders group of the Cochrane Collaboration - an international not-for-profit organization dedicated to improving healthcare decision-making globally. I work with a range of Caribbean and international agencies involved in health and wellness. 
 
 <!--Collaborations have included The World Health Organization (WHO), The Pan-American Health Organization (PAHO), The European Union, UNICEF, Caribbean Public Health Agency (CARPHA) -->
-<!-- Caribbean Disaster Emergency Management Agency (CDEMA), International Diabetes Federation (IDF), International Agency for Research on Cancer (IARC).-->
+<!--Caribbean Disaster Emergency Management Agency (CDEMA), International Diabetes Federation (IDF), International Agency for Research on Cancer (IARC).-->
 
-{{< icon name="download" pack="fas" >}} {{% staticref "files/2020Aug_Hambleton_CV.pdf" %}}Download my full resumé{{% /staticref %}}.
+{{< icon name="download" pack="fas" >}} {{% staticref "files/2020Aug_Hambleton_CV.pdf" %}}Download my full résumé{{% /staticref %}}.
 
-{{< icon name="download" pack="fas" >}} {{% staticref "files/2020Aug_Hambleton_bio.pdf" %}}Download my short bioketch{{% /staticref %}}.
+{{< icon name="download" pack="fas" >}} {{% staticref "files/2020Aug_Hambleton_bio.pdf" %}}Download my short biosketch{{% /staticref %}}.
 
 

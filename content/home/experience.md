@@ -3,10 +3,10 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 200  # Order that this section will appear.
 
-title = "Employment"
-subtitle = ""
+title = "Employment and Committee Work"
+subtitle = "The University appointments..."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -67,8 +67,8 @@ date_format = "Jan 2006"
   company = "Charing Cross Medical School, Department of Public Health and Primary Care"
   company_url = ""
   location = "London, UK"
-  date_start = "1996-07-01"
-  date_end = "2002-08-01"
+  date_start = "1995-08-01"
+  date_end = "1996-07-01"
   description = """Statistical consultancy. Analysis of major funded projects. Teaching of statistical techniques and software."""
 
 +++
