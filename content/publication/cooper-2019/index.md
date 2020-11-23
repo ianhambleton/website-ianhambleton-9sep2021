@@ -1,0 +1,128 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Pharmacological interventions for painful sickle cell vaso-occlusive crises
+  in adults.
+subtitle: ''
+summary: ''
+authors:
+- Tess E. Cooper
+- Ian R. Hambleton
+- Samir K. Ballas
+- Brydee A. Johnston
+- Philip J. Wiffen
+tags:
+- '"Acute Pain/*drug therapy/*etiology"'
+- '"Analgesics/*therapeutic use"'
+- '"Analgesics"'
+- '"Opioid/therapeutic use"'
+- '"Anemia"'
+- '"Sickle Cell/*complications"'
+- '"Anti-Inflammatory Agents"'
+- '"Non-Steroidal/therapeutic use"'
+- '"Humans"'
+- '"Pain Management/methods"'
+- '"Pain Measurement"'
+- '"Peripheral Vascular Diseases/drug therapy/etiology"'
+- '"Randomized Controlled Trials as Topic"'
+categories: []
+date: '2019-11-01'
+lastmod: 2020-11-22T22:06:31-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-11-23T02:06:31.224272Z'
+publication_types:
+- '2'
+abstract: "BACKGROUND: Sickle cell disease (SCD) is a group of inherited disorders\
+  \ of haemoglobin (Hb) structure in a person who has inherited two mutant globin\
+  \ genes (one from each parent), at least one of which is always the sickle mutation.\
+  \ It is estimated that between 5% and 7% of the world's population are carriers\
+  \ of the mutant Hb gene, and SCD is the most commonly inherited blood disorder.\
+  \ SCD is characterized by distorted sickle-shaped red blood cells. Manifestations\
+  \ of the disease are attributed to either haemolysis (premature red cell destruction)\
+  \ or vaso-occlusion (obstruction of blood flow, the most common manifestation).\
+  \ Shortened lifespans are attributable to serious comorbidities associated with\
+  \ the disease, including renal failure, acute cholecystitis, pulmonary hypertension,\
+  \ aplastic crisis, pulmonary embolus, stroke, acute chest syndrome, and sepsis.\
+  \ Vaso-occlusion can lead to an acute, painful crisis (sickle cell crisis, vaso-occlusive\
+  \ crisis (VOC) or vaso-occlusive episode). Pain is most often reported in the joints,\
+  \ extremities, back or chest, but it can occur anywhere and can last for several\
+  \ days or weeks. The bone and muscle pain experienced during a sickle cell crisis\
+  \ is both acute and recurrent. Key pharmacological treatments for VOC include opioid\
+  \ analgesics, non-opioid analgesics, and combinations of drugs. Non-pharmacological\
+  \ approaches, such as relaxation, hypnosis, heat, ice and acupuncture, have been\
+  \ used in conjunction to rehydrating the patient and reduce the sickling process.\
+  \ OBJECTIVES: To assess the analgesic efficacy and adverse events of pharmacological\
+  \ interventions to treat acute painful sickle cell vaso-occlusive crises in adults,\
+  \ in any setting. SEARCH METHODS: We searched the Cochrane Central Register of Controlled\
+  \ Trials (CENTRAL) via the Cochrane Register of Studies Online, MEDLINE via Ovid,\
+  \ Embase via Ovid and LILACS, from inception to September 2019. We also searched\
+  \ the reference lists of retrieved studies and reviews, and searched online clinical\
+  \ trial registries. SELECTION CRITERIA: Randomized, controlled, double-blind trials\
+  \ of pharmacological interventions, of any dose and by any route, compared to placebo\
+  \ or any active comparator, for the treatment (not prevention) of painful sickle\
+  \ cell VOC in adults. DATA COLLECTION AND ANALYSIS: Three review authors independently\
+  \ assessed studies for eligibility. We planned to use dichotomous data to calculate\
+  \ risk ratio (RR) and number needed to treat for one additional event, using standard\
+  \ methods. Our primary outcomes were participant-reported pain relief of 50%, or\
+  \ 30%, or greater; Patient Global Impression of Change (PGIC) very much improved,\
+  \ or much or very much improved. Our secondary outcomes included adverse events,\
+  \ serious adverse events, and withdrawals due to adverse events. We assessed GRADE\
+  \ and created three 'Summary of findings' tables. MAIN RESULTS: We included nine\
+  \ studies with data for 638 VOC events and 594 participants aged 17 to 42 years\
+  \ with SCD presenting to a hospital emergency department in a painful VOC. Three\
+  \ studies investigated a non-steroidal anti-inflammatory drug (NSAID) compared to\
+  \ placebo. One study compared an opioid with a placebo, two studies compared an\
+  \ opioid with an active comparator, two studies compared an anticoagulant with a\
+  \ placebo, and one study compared a combination of three drugs with a combination\
+  \ of four drugs. Risk of bias across the nine studies varied. Studies were primarily\
+  \ at an unclear risk of selection, performance, and detection bias. Studies were\
+  \ primarily at a high risk of bias for size with fewer than 50 participants per\
+  \ treatment arm; two studies had 50 to 199 participants per treatment arm (unclear\
+  \ risk). Non-steroidal anti-inflammatory drugs (NSAID) compared with placebo No\
+  \ data were reported regarding participant-reported pain relief of 50% or 30% or\
+  \ greater. The efficacy was uncertain regarding PGIC very much improved, and PGIC\
+  \ much or very much improved (no difference; 1 study, 21 participants; very low-quality\
+  \ evidence). Very low-quality, uncertain results suggested similar rates of adverse\
+  \ events across both the NSAIDs group (16/45 adverse events, 1/56 serious adverse\
+  \ events, and 1/56 withdrawal due to adverse events) and the placebo group (19/45\
+  \ adverse events, 2/56 serious adverse events, and 1/56 withdrawal due to adverse\
+  \ events). Opioids compared with placebo No data were reported regarding participant-reported\
+  \ pain relief of 50% or 30%, PGIC, or adverse events (any adverse event, serious\
+  \ adverse events, and withdrawals due to adverse events). Opioids compared with\
+  \ active comparator No data were reported regarding participant-reported pain relief\
+  \ of 50% or 30% or greater. The results were uncertain regarding PGIC very much\
+  \ improved (33% of the opioids group versus 19% of the placebo group). No data were\
+  \ reported regarding PGIC much or very much improved. Very low-quality, uncertain\
+  \ results suggested similar rates of adverse events across both the opioids group\
+  \ (9/66 adverse events, and 0/66 serious adverse events) and the placebo group (7/64\
+  \ adverse events, 0/66 serious adverse events). No data were reported regarding\
+  \ withdrawal due to adverse events. Quality of the evidence We downgraded the quality\
+  \ of the evidence by three levels to very low-quality because there are too few\
+  \ data to have confidence in results (e.g. too few participants per treatment arm).\
+  \ Where no data were reported for an outcome, we had no evidence to support or refute\
+  \ (quality of the evidence is unknown). AUTHORS' CONCLUSIONS: This review identified\
+  \ only nine studies, with insufficient data for all pharmacological interventions\
+  \ for analysis. The available evidence is very uncertain regarding the efficacy\
+  \ or harm from pharmacological interventions used to treat pain related to sickle\
+  \ cell VOC in adults. This area could benefit most from more high quality, certain\
+  \ evidence, as well as the establishment of suitable registries which record interventions\
+  \ and outcomes for this group of people."
+publication: '*The Cochrane database of systematic reviews*'
+doi: 10.1002/14651858.CD012187.pub2
+---
