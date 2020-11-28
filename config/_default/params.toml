@@ -87,9 +87,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
+# Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url = "https://calendly.com/ianhambleton/60min"
+
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ian.hambleton@cavehill.uwi.edu"
-phone = "+1 246 830 3399"
+phone = "+1 246 426 6416"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -105,9 +108,6 @@ directions = "Just ask for Ian"
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday to Friday 08:00 to 16:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

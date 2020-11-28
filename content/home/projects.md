@@ -27,19 +27,19 @@ subtitle = "A few examples of my involvement in funded projects... usually offer
   
   [[content.filter_button]]
     name = "Current"
-    tag = "Current"
+    tag = "current project"
 
   [[content.filter_button]]
     name = "Completed"
-    tag = "Completed"
+    tag = "completed project"
 
   [[content.filter_button]]
-    name = "Analytics"
-    tag = "Analytics"
+    name = "Analytics"     
+    tag = "analytics"
   
   [[content.filter_button]]
-    name = "Data Handling"
-    tag = "Data Handling"
+    name = "Data handling"
+    tag = "data handling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

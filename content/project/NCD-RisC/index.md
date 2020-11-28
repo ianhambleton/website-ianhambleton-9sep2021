@@ -1,17 +1,19 @@
 ---
 title: NCD-RisC
 author: Ian Hambleton
-date: "2020-08-26"
+date: "2020-11-28"
 image:
   caption:
   focal_point: Smart
 summary: NCD Risk Factor Collaboration.
 tags:
-- Current
-- Analytics
-- NCD 
-- Secondary analyses
-- Health of the Nation
+- ncd-risc
+- hotn
+- current project
+- global
+- analytics
+- secondary analysis
+- risk factors
 ---
 
 ### NCD Risk Factor Collaboration

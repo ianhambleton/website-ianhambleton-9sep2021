@@ -6,23 +6,27 @@ image:
   caption:
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/caribdata
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/caribdata
 # slides: example
 summary: The Barbados National Registry for Chronic Non-Communicable Disease
 tags:
-- Current
-- Analytics
-- Data Handling
+- bnr
+- "current project"
+- barbados
+- analytics
+- data handling
 - surveillance
-- NCD
+- policy
+- children
+- adults
 - stroke
 - heart attack
 - cancer
-- Caribbean
-- Barbados
+- cardiovascular
+
 reading_time: false
 url_code: ""
 url_pdf: ""

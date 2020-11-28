@@ -15,30 +15,13 @@ authors:
 - Arianne Harvey
 - Nigel Unwin
 tags:
-- '"Acute Coronary Syndrome/epidemiology/*therapy"'
-- '"Age Factors"'
-- '"Aged"'
-- '"Angina"'
-- '"Unstable/epidemiology/*therapy"'
-- '"Barbados/epidemiology"'
-- '"Cohort Studies"'
-- '"Female"'
-- '"*Health Status Disparities"'
-- '"Hospital Mortality"'
-- '"Humans"'
-- '"Logistic Models"'
-- '"Male"'
-- '"Middle Aged"'
-- '"Myocardial Infarction/epidemiology/*therapy"'
-- '"Registries"'
-- '"Secondary Prevention/*methods"'
-- '"*Sex Factors"'
-- '"*acute coronary syndromes"'
-- '"*cardiology"'
-- '"*global health"'
-- '"*health inequities"'
-- '"*myocardial infarction"'
-- '"*preventive medicine"'
+- BNR
+- Surveillance
+- Stroke
+- Heart attack
+- Cancer
+- Barbados
+
 categories: []
 date: '2019-01-01'
 lastmod: 2020-11-22T22:06:36-04:00

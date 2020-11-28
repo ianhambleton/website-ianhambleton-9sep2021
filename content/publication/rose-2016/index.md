@@ -22,16 +22,12 @@ authors:
 - Branka Legetic
 - Anselm J. Hennis
 tags:
-- '"Barbados/epidemiology"'
-- '"Developing Countries/*statistics & numerical data"'
-- '"Humans"'
-- '"Incidental Findings"'
-- '"Myocardial Infarction/*epidemiology"'
-- '"Neoplasms/epidemiology"'
-- '"Noncommunicable Diseases/*epidemiology"'
-- '"*Population Surveillance"'
-- '"Prospective Studies"'
-- '"Stroke/*epidemiology"'
+- BNR
+- Surveillance
+- Stroke
+- Heart attack
+- Cancer
+- Barbados
 categories: []
 date: '2016-02-01'
 lastmod: 2020-11-22T22:06:51-04:00
