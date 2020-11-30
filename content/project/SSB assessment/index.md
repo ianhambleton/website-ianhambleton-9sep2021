@@ -11,7 +11,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/caribdata
 # slides: example
-summary: Evaluating and guiding policy decision-making in the Caribbean on taxation of Sugar Sweetened Beverage 
+summary: Evaluating and guiding policy decision-making in the Caribbean on the taxation of Sugar Sweetened Beverages 
 tags:
 - ssb
 - completed project
@@ -32,7 +32,7 @@ url_video: ""
 ---
 
 ### Assessing the Barbados SSB Tax
-#### Evaluating and guiding policy decision-making in the Caribbean on taxation of Sugar Sweetened Beverage 
+#### Evaluating and guiding policy decision-making in the Caribbean on the taxation of Sugar Sweetened Beverages 
 
 There is increasing international interest in using fiscal measures on food and non-alcoholic beverages as preventive measures for NCDs. A specific recommendation is to increase the tax on sugar sweetened beverages (SSBs), so that they are more expensive that non-sugar sweetened beverages. In the June Budget Statement in 2015 the Government of Barbados announced a 10% tax on SSBs, and this came into effect on September 1, 2015. The aims of the study are to evaluate the potential impact of a tax on SSBs in Barbados, develop methods that can be applied in other Caribbean countries to evaluate the impact of a tax on SSBs, and inform policy decision making on SSB taxes within the Caribbean region.
 
