@@ -68,7 +68,11 @@ math: true
 REDCap is web-based software for electronic data capture. Built by Vanderbilt Univ and free for use. It's built with researchers in mind, but can be used for any data collection. This is a brief introduction to the REDCap installation for the Cave Hill campus.
 
 {{% callout note %}}
-View the slides below. Use the **Space Bar** to advance slides
+View the slides below. 
+
+Use the **Space Bar** to advance slides. 
+
+When in full screen, press **Esc** to leave the slide show.
 {{% /callout %}}
 
 <iframe src="https://slides.com/ian-hambleton/redcap-overview/embed" width="720" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>

@@ -279,6 +279,9 @@ plugins_js  = []
 [cms]
   # See https://wowchemy.com/docs/install/
   netlify_cms = true
+  branch = "main"
+  # publish_mode = "editorial_workflow"
+  # local_backend = true
 
 ############################
 ## Icon Pack Extensions
