@@ -88,36 +88,38 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/ianhambleton/60min"
+# appointment_url = "https://calendly.com/ianhambleton/60min"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ian.hambleton@cavehill.uwi.edu"
 phone = "+1 246 426 6416"
 
+# Contact links
+#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+contact_links = [
+  {icon = "linkedin-in", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/ian-hambleton-statistician/"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/CaribData"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:ianhambleton?call"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  ]
+
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Jemmott's Lane", city = "Bridgetown", region = "St. Michael", postcode = "11115", country = "Barbados", country_code = "BRB"}
+address = {street = "Jemmott's Lane", city = "Bridgetown", region = "St. Michael", postcode = "11115", country = "Barbados", country_code = "BB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "13.09307", longitude = "-59.60743"}
 
 # Directions for visitors to locate you.
-directions = "Just ask for Ian"
+# directions = "Just ask for Ian"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 08:00 to 16:00"]
+office_hours = []
 
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/CaribData"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ianhambleton?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
 
 ############################
 ## Social
@@ -161,7 +163,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = true, notice = "This work is licensed under {license}"}
 
 # Link authors to their profile page? (true/false)
 link_authors = true
@@ -258,11 +260,11 @@ plugins_js  = []
   #   https://www.mapbox.com/studio/account/tokens
   #
   # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  #   "": No map
+  #   "google": Google Maps
+  #   "mapnik": OpenStreetMap (Mapnik)
+  #   "mapbox": OpenStreetMap (Mapbox)
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
