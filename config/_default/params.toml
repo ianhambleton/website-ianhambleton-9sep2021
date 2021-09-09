@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "ian-theme002"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -57,7 +57,7 @@ description = ""
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
 highlight = true
-highlight_languages = ["r", "stata"]  # Add support for highlighting additional languages
+highlight_languages = ["r", "stata", "python"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
@@ -155,7 +155,7 @@ main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_l
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
@@ -236,7 +236,10 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "wowchemy"
+    [search.wowchemy]
+    min_length = 1  # Only the matches whose length exceeds this value will be returned.
+    threshold = 0.3  # Where 0 requires a perfect match and 1 matches anything.
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -281,7 +284,7 @@ plugins_js  = []
 [cms]
   # See https://wowchemy.com/docs/install/
   netlify_cms = true
-  branch = "main"
+  branch = "master"
   # publish_mode = "editorial_workflow"
   # local_backend = true
 

@@ -1,0 +1,30 @@
+# Theme metadata
+name = "ian-theme001"
+
+# Is theme light or dark?
+light = true
+
+# Primary 
+# - Navy
+primary = "#1e3d59"
+
+# Menu
+# - Almond
+menu_primary = "#f5f0e1"
+# - Orange
+menu_text = "#ff6e40"
+# - Yellow
+menu_text_active = "#ffc13b"
+# - Darker Almond
+menu_title = "#e6d9b3"
+
+# Home sections
+# - White 
+home_section_odd = "rgb(255, 255, 255)"
+# - Almond
+home_section_even = "#f5f0e1"
+
+[dark]
+# - Orange
+  link = "#ff6e40"
+  link_hover = "#ff6e40"

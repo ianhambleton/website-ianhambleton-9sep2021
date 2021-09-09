@@ -1,0 +1,28 @@
+# Theme metadata
+name = "minimal-asexample"
+
+# Is theme light or dark?
+light = true
+
+# Primary 
+# - Mid-Blue
+primary = "#1565c0"
+
+# Menu
+# - white
+menu_primary = "#fff"
+# - iron blue
+menu_text = "#34495e"
+# - bright blue
+menu_text_active = "#2962ff"
+# - dark grey
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+# - light blue
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

@@ -1,0 +1,35 @@
+# Theme metadata
+name = "ian-theme002"
+
+# Is theme light or dark?
+is_light = true
+
+# Primary 
+# - iron blue
+primary = "#1e3d59"
+
+# Links
+link = "#1e3d59"
+link_hover = "#ff6e40"
+link_decoration = "underline"
+
+# Menu
+# - iron blue
+menu_primary = "#1e3d59"
+# - iron blue
+menu_text = "#ffffff"
+# - Orange
+menu_text_active = "#ff6e40"
+# - dark grey
+menu_title = "#ff6e40"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(235, 235, 235)"
+
+[dark]
+# - light blue
+  link = "#ff6e40"
+  link_hover = "#ff6e40"
+
+# font = "rose"

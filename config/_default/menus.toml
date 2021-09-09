@@ -56,13 +56,30 @@
 #       [[main]]
 #         name = "courses"
 #         url = "#talks"
-#         weight = 51
+#         weight = 41
 #         parent = "submenu_training"       
 #        [[main]]
 #         name = "presentations"
 #         url = "#talks"
 #         weight = 42
 #         parent = "submenu_teaching"
+
+[[main]]
+  name = "Research Data Handling"
+  url = "#rdh"
+  weight = 50
+  identifier = "submenu_rdh"
+# Sub-menu
+#        [[main]]
+#          name = "rdh guidelines"
+#          url = "docs/"
+#          weight = 51
+#          parent = "submenu_rdh"       
+        [[main]]
+         name = "redcap"
+         url = "#redcap"
+         weight = 52
+         parent = "submenu_rdh"
 
 # [[main]]
 #  name = "Experience"

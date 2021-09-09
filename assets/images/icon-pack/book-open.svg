@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 617.62714 469.68216"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="book-open.svg"
+   width="617.62714"
+   height="469.68216">
+  <path
+     inkscape:connector-curvature="0"
+     d="m 583.85712,21.770569 c -54.8,3.11 -163.72,14.429999 -230.96,55.589997 -4.64,2.84 -7.27,7.89 -7.27,13.17 l 0,363.870004 c 0,11.55 12.63,18.85 23.28,13.49 69.18,-34.82 169.23,-44.32 218.7,-46.92 16.89,-0.89 30.02,-14.43 30.02,-30.66 l 0,-337.840002 c 0.01,-17.71 -15.35,-31.739999 -33.77,-30.699999 z"
+     id="path4140-1"
+     style="fill:#2da5ff;fill-opacity:1" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1518"
+     inkscape:window-height="909"
+     id="namedview6"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="288"
+     inkscape:cy="245.67787"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) -->
+  <path
+     d="M 542.22,0.05430614 C 487.42,3.1643061 378.5,14.484306 311.26,55.644306 c -4.64,2.84 -7.27,7.89 -7.27,13.17 l 0,363.870004 c 0,11.55 12.63,18.85 23.28,13.49 69.18,-34.82 169.23,-44.32 218.7,-46.92 16.89,-0.89 30.02,-14.43 30.02,-30.66 l 0,-337.840004 C 576,13.044306 560.64,-0.98569386 542.22,0.05430614 Z"
+     id="path4140"
+     style="fill:#2d62ff;fill-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 264.73,55.644306 C 197.5,14.484306 88.58,3.1743061 33.78,0.05430614 15.36,-0.98569386 0,13.044306 0,30.754306 L 0,368.60431 c 0,16.24 13.13,29.78 30.02,30.66 49.49,2.6 149.59,12.11 218.77,46.95 10.62,5.35 23.21,-1.94 23.21,-13.46 l 0,-364.120004 c 0,-5.29 -2.62,-10.14 -7.27,-12.99 z"
+     id="path4"
+     style="fill:#2d62ff;fill-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>
