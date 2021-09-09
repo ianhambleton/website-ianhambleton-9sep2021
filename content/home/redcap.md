@@ -18,7 +18,7 @@ subtitle: A secure web application to support data capture for research
 
 
 ## What is REDCap?
-- REDCap is an acronym for **R**esearch **E**lectronic **D**ata **Cap**ture, and is used by more than 4,500 instutitions in 140 countries. <br><br>
+- REDCap is an acronym for **R**esearch **E**lectronic **D**ata **Cap**ture, and is used by more than 4,500 instutitions in 140 countries.  <br><br>
     
 - REDCap was built by the Vanderbilt Institute for Clinical and Translational Research, with funding from the National Institutes of Health.<br><br>
 
